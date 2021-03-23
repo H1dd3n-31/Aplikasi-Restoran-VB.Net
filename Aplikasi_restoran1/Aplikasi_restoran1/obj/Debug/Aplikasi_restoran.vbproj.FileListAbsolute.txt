@@ -1,0 +1,16 @@
+C:\Users\h1dd3n\AppData\Local\Temporary Projects\Aplikasi_restoran\bin\Debug\Aplikasi_restoran.exe.config
+C:\Users\h1dd3n\AppData\Local\Temporary Projects\Aplikasi_restoran\bin\Debug\Aplikasi_restoran.exe
+C:\Users\h1dd3n\AppData\Local\Temporary Projects\Aplikasi_restoran\bin\Debug\Aplikasi_restoran.pdb
+C:\Users\h1dd3n\AppData\Local\Temporary Projects\Aplikasi_restoran\bin\Debug\Aplikasi_restoran.xml
+C:\Users\h1dd3n\AppData\Local\Temporary Projects\Aplikasi_restoran\obj\Debug\Aplikasi_restoran.Konfirmasi_Pendaftaran.resources
+C:\Users\h1dd3n\AppData\Local\Temporary Projects\Aplikasi_restoran\obj\Debug\Aplikasi_restoran.Login.resources
+C:\Users\h1dd3n\AppData\Local\Temporary Projects\Aplikasi_restoran\obj\Debug\Aplikasi_restoran.MenuUtama.resources
+C:\Users\h1dd3n\AppData\Local\Temporary Projects\Aplikasi_restoran\obj\Debug\Aplikasi_restoran.Resources.resources
+C:\Users\h1dd3n\AppData\Local\Temporary Projects\Aplikasi_restoran\obj\Debug\Aplikasi_restoran.Pendaftaran.resources
+C:\Users\h1dd3n\AppData\Local\Temporary Projects\Aplikasi_restoran\obj\Debug\Aplikasi_restoran.vbproj.GenerateResource.Cache
+C:\Users\h1dd3n\AppData\Local\Temporary Projects\Aplikasi_restoran\obj\Debug\Aplikasi_restoran.exe
+C:\Users\h1dd3n\AppData\Local\Temporary Projects\Aplikasi_restoran\obj\Debug\Aplikasi_restoran.xml
+C:\Users\h1dd3n\AppData\Local\Temporary Projects\Aplikasi_restoran\obj\Debug\Aplikasi_restoran.pdb
+C:\Users\h1dd3n\AppData\Local\Temporary Projects\Aplikasi_restoran\obj\Debug\Aplikasi_restoran.Form_Pemabayaran.resources
+C:\Users\h1dd3n\AppData\Local\Temporary Projects\Aplikasi_restoran\obj\Debug\Aplikasi_restoran.Form_Pilih_Meja.resources
+C:\Users\h1dd3n\AppData\Local\Temporary Projects\Aplikasi_restoran\obj\Debug\Aplikasi_restoran.Menu_Makanan.resources
